@@ -23,3 +23,6 @@ How to Run:
   Install dependencies: pip install pandas matplotlib seaborn.
 
   Run untitled1.py.
+
+Project Visualization
+![Palmeiras Evolution Chart](palmeiras_evolution.png)
